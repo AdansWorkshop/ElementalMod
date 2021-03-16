@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#",
+    "#E#",
+    "#A#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_ice"
+    },
+    "E": {
+      "item": "elements:water"
+    },
+    "A": {
+      "item": "elements:elemental_binding"
+    }
+  },
+  "result": {
+    "item": "elements:sword_of_water",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "item.elements.fire": "Fire",
+  "item.elements.water": "Water",
+  "item.elements.earth": "Earth",
+  "item.elements.air": "Air",
+  "item.elements.sword_of_fire": "Sword of Fire",
+  "item.elements.sword_of_water": "Sword of Water",
+  "item.elements.sword_of_earth": "Earth Sword",
+  "item.elements.elemental_binding": "Elemental Binding",
+  "item.elements.disc_of_life": "Disc of Life",
+  "item.elements.blade_of_life": "Blade of Life"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "EVS",
+    " F "
+  ],
+  "key": {
+    "#": {
+      "item": "elements:fire"
+    },
+    "E": {
+      "item": "elements:earth"
+    },
+    "V": {
+      "item": "elements:disc_of_life"
+    },
+    "S": {
+      "item": "elements:air"
+    },
+    "F": {
+      "item": "elements:water"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 1
+  }
+}

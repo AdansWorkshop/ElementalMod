@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#DE",
+    "LDT",
+    "ORO"
+  ],
+  "key": {
+    "#": {
+      "item": "elements:water"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "E": {
+      "item": "elements:air"
+    },
+    "L": {
+      "item": "elements:fire"
+    },
+    "T": {
+      "item": "elements:earth"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "R": {
+      "item": "elements:disc_of_life"
+    }
+  },
+  "result": {
+    "item": "elements:blade_of_life",
+    "count": 1
+  }
+}

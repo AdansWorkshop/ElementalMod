@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#"
+  ],
+  "key": {
+    "#": {
+      "item": "elements:air"
+    },
+    "E": {
+      "item": "elements:elemental_binding"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
+}

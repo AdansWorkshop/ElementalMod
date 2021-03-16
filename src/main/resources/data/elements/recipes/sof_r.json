@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#",
+    "#E#",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:weeping_vines"
+    },
+    "E": {
+      "item": "elements:fire"
+    },
+    "O": {
+      "item": "elements:elemental_binding"
+    }
+  },
+  "result": {
+    "item": "elements:sword_of_fire",
+    "count": 1
+  }
+}

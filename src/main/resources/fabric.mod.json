@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "elements",
+  "version": "${version}",
+
+  "name": "Elemental Mod",
+  "description": "It has elemental stuff",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/elements/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ezra.elements.Elements"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

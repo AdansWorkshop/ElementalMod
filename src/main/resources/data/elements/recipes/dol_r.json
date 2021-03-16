@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "EDF",
+    "#A#"
+  ],
+  "key": {
+    "#": {
+      "item": "elements:elemental_binding"
+    },
+    "W": {
+      "item": "elements:water"
+    },
+    "E": {
+      "item": "elements:earth"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "elements:fire"
+    },
+    "A": {
+      "item": "elements:air"
+    }
+  },
+  "result": {
+    "item": "elements:disc_of_life",
+    "count": 1
+  }
+}

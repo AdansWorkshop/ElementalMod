@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#",
+    "DED",
+    "SXS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:grass_block"
+    },
+    "E": {
+      "item": "elements:earth"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "X": {
+      "item": "elements:elemental_binding"
+    }
+  },
+  "result": {
+    "item": "elements:sword_of_earth",
+    "count": 1
+  }
+}
