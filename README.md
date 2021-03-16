@@ -11,3 +11,7 @@ This template is available under the CC0 license. Feel free to learn from it and
 ## Version
 
 Minecraft Java Edition 1.16.4
+
+# Java Package
+
+I put it under a nickname of Ezra
